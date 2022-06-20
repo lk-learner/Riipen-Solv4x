@@ -17,7 +17,8 @@ Recommendation forecasting methodologies,
 Bad data detection,
 Reporting & Visualization.
 
-ABOUT COMPANY
+ABOUT COMPANY:
+
 http://solv4xinc.eweather.ai/
 
 https://app.riipen.com/marketplace
